@@ -29,6 +29,12 @@
 3. [聚类-Louvain](http://www.cnblogs.com/fengfenggirl/p/louvain.html)
 
 ---
+**nlpc**
+1. [word2vec](https://blog.csdn.net/han____shuai/article/details/50882135)
+2. [N元文法模型](https://blog.csdn.net/lengyuhong/article/details/6022053)
+3. [TF-IDF](https://blog.csdn.net/zrc199021/article/details/53728499) 
+
+---
 
 **其他**
 1. [geohash](http://www.cnblogs.com/LBSer/p/3310455.html) 
