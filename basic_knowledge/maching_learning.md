@@ -20,3 +20,18 @@
 1. [LR-原理](https://blog.csdn.net/cyh_24/article/details/50359055)
 2. [LR-和softmax关系](http://www.cnblogs.com/maybe2030/p/5678387.html)
 2. [LR-和朴素贝叶斯的区别](https://blog.csdn.net/chlele0105/article/details/38922551)
+
+---
+
+**聚类**
+1. [聚类-kmeans](http://www.cnblogs.com/jerrylead/archive/2011/04/06/2006910.html)
+2. [聚类-dbscan](http://www.cnblogs.com/chaosimple/p/3164775.html)
+3. [聚类-Louvain](http://www.cnblogs.com/fengfenggirl/p/louvain.html)
+
+---
+
+**其他**
+1. [geohash](http://www.cnblogs.com/LBSer/p/3310455.html) 
+2. [生成模型vs判别模型](http://www.cnblogs.com/ranjiewen/articles/6736640.html)
+3. [线性回归，最小二乘](http://pytlab.org/2017/10/24/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%AE%9E%E8%B7%B5-%E6%A0%87%E5%87%86%E4%B8%8E%E5%B1%80%E9%83%A8%E5%8A%A0%E6%9D%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/#)
+4. [why最小二乘](https://www.zhihu.com/question/24095027/answer/30763880)
