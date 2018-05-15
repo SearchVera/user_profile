@@ -51,3 +51,14 @@ du -sh *
 ```
 awk '{sum += $1};END {print sum}' file
 ```
+
+**sed**
+```
+sed -n "3,6p" file
+# 显示3-6行
+```
+
+```
+sed "s/lds/ld/g"
+# 全局将lds替换为ld
+```
