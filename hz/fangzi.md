@@ -8,3 +8,7 @@
   - 其他费用：宣传，税费（20%）
 3. 二手房
   - 二手房就不存在限价令的约束，供需决定
+  
+
+## 地价
+1. [第一季度地价](http://www.tmsf.com/upload/info/subjectspecial/15240405860760/index.html)
