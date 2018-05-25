@@ -18,6 +18,12 @@ X.loc[X.Sex == 'female','Sex'] = 0
 X['Sex'] = X.Sex.apply(lambda x: 1 if x == 'male' else 0)
 ```
 
+3. 填充缺失值
+```
+X.Age = X.Age.fillna(int(X.Age.mean()))
+#需要inplace
+```
+
 ## 描述统计
 1. 一列为空的有多少
 ```
