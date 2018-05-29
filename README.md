@@ -6,3 +6,8 @@
 1. 机器学习基础知识
 2. 常用工具
 3. 工作内容总结
+
+### 学习计划
+1. tensorflow
+2. RNN,LSTM
+3. spark, scala
