@@ -50,11 +50,13 @@ sort -r -n -k 2 -t : number.txt
 ```
 sort -k 1 -k 2 number.txt
 # 先按第一列排序，再按第二列排序
+```
 
 **du：磁盘占用**
 ```
 du -sh *
 ```
+
 
 **awk**
 ```
