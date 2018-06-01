@@ -9,3 +9,13 @@ source bin/activate
 deactivate
 # 关闭环境
 ```
+
+## numpy
+**(5,)变成(5,1)：newaxis**
+```
+b = np.linspace(-1,1,5)
+##b.shape = (5,)
+
+b=np.linspace(-1,1,5)[:, np.newaxis]
+##b.shape = (5,)
+```
