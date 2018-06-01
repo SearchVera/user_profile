@@ -19,3 +19,15 @@ b = np.linspace(-1,1,5)
 b=np.linspace(-1,1,5)[:, np.newaxis]
 ##b.shape = (5,1)
 ```
+**linspace：均匀取值**
+```
+np.linspace(-1, 1, 100)
+# [-1,1]之间均匀取100个点
+```
+
+**产生随机数**
+
+```
+noise = np.random.normal(0, 0.01, x.shape)
+# 0=均值 0.01=方差 x.shape=大小
+```
