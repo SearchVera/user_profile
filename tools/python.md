@@ -17,5 +17,5 @@ b = np.linspace(-1,1,5)
 ##b.shape = (5,)
 
 b=np.linspace(-1,1,5)[:, np.newaxis]
-##b.shape = (5,)
+##b.shape = (5,1)
 ```
