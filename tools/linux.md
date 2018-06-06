@@ -73,3 +73,10 @@ sed -n "3,6p" file
 sed "s/lds/ld/g"
 # 全局将lds替换为ld
 ```
+
+**chmod**
+```
+chmod a+x log2012.log
+# a:权限范围(a=所有用户及群组;u=当前用户;g=当前组;o=其他)
+# x:权限(x=执行权限;r=读权限;w=写权限)
+```
