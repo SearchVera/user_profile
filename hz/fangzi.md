@@ -14,6 +14,7 @@
 1. [第一季度地价](http://www.tmsf.com/upload/info/subjectspecial/15240405860760/index.html)
 
 ## 二手房
+**浦沿**
 1. 时代长岛之春
  - https://hz.5i5j.com/ershoufang/38953419.html
  - 125平，2楼，358万，首付108万，月供1.44万
@@ -22,3 +23,19 @@
 2. 滨文苑
  - https://hz.5i5j.com/ershoufang/38718178.html
  - 132平，高层，360万，首付108万，月供1.53万
+ - 04年房子
+
+3. 贺田尚城
+ - https://hz.5i5j.com/ershoufang/39141898.html
+ - 104平，底层，375万
+ - 08年房子，上班有点远
+
+4. 江涛阁
+ - https://hz.5i5j.com/ershoufang/90011050.html
+ - 113平，中层，415万，单价3.68万
+ - 09年房子
+ 
+5. 中兴和园
+ - https://hz.5i5j.com/ershoufang/31736106.html
+ - 132平，370万，单价2.79万
+ - 有点偏
