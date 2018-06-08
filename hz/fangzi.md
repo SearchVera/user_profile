@@ -12,3 +12,13 @@
 
 ## 地价
 1. [第一季度地价](http://www.tmsf.com/upload/info/subjectspecial/15240405860760/index.html)
+
+## 二手房
+1. 时代长岛之春
+ - https://hz.5i5j.com/ershoufang/38953419.html
+ - 125平，2楼，358万，首付108万，月供1.44万
+ - 近4号线
+ 
+2. 滨文苑
+ - https://hz.5i5j.com/ershoufang/38718178.html
+ - 132平，高层，360万，首付108万，月供1.53万
