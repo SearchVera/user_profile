@@ -31,3 +31,8 @@ np.linspace(-1, 1, 100)
 noise = np.random.normal(0, 0.01, x.shape)
 # 0=均值 0.01=方差 x.shape=大小
 ```
+## 其他
+**pip查看版本号**
+```
+pip list
+```
