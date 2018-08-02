@@ -65,3 +65,17 @@ scala> rdd_c.join(rdd_d).foreach(println)
 (spark,(1,4))
 (hadoop,(1,2))
 ```
+
+### 基础知识
+1. local启动shell
+```
+spark-shell --master local[1]
+pyspark --master local[2]
+# [N]:N表示用几个thread
+```
+
+2. pyspark读取本地文件
+```
+text_file = spark.read.text("file:///opt/spark/README.md")
+# spark默认读取hdfs文件
+```
