@@ -79,6 +79,12 @@ sed "s/lds/ld/g"
 # 全局将lds替换为ld
 ```
 
+```
+sed -i '1d' file
+# 去掉文件第一行
+```
+
+
 **chmod**
 ```
 chmod a+x log2012.log
