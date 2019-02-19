@@ -2,6 +2,13 @@
 ### one class classification
 - [one-class SVM](https://zhuanlan.zhihu.com/p/32784067)
 
+### 预训练
+
+### Bert
+
+### transformer
+
+
 ## 推荐
 
 ## 匹配
