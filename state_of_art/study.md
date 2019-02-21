@@ -5,7 +5,7 @@
 ### 预训练
 
 ### Bert
-
+[知乎科普文](https://zhuanlan.zhihu.com/p/49271699)
 ### transformer
 
 
