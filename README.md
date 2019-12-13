@@ -12,4 +12,31 @@
 
 
 ## 工程
+### tensorflow
+- keras
+    - Model
+    - layers
+        - Dense
+        - LSTM
+    - optimizer
+        - Adam
+    - metrics
+        - Mean
+        - CategoricalAccuracy
+    - preprocessing
+        - sequence
+            - pad_sequences
+    
+        
+        
+- losses
+    - CategoricalCrossentropy
+
+- GradientTape
+
+- op
+    - ones
+    - zeros
+    - concat
+    - cast
 
