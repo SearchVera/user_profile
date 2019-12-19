@@ -10,6 +10,9 @@
 2. **Recurrent neural network based language model**
 > 摘要：最早提出基于rnn的语言模型：通过预测下一个词来构造损失函数
 
+### Recommend
+1. **Deep Neural Network for YouTube Recommendation**
+> 摘要：2016年youtube推荐系统，提出将推荐过程分为matching和ranking2个阶段
 
 ## 工程
 ### tensorflow
