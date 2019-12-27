@@ -37,6 +37,15 @@
 
 - GradientTape
 
+- train
+    - Feature
+    - Example
+
+- data
+    - Dataset
+    - experimental.TFRecordWriter
+    - TFRecordDataset
+
 - op
     - ones
     - zeros
