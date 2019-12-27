@@ -39,12 +39,16 @@
 
 - train
     - Feature
+    - Features
     - Example
 
 - data
     - Dataset
     - experimental.TFRecordWriter
     - TFRecordDataset
+
+- io
+    - TFRecordWriter
 
 - op
     - ones
