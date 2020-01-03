@@ -21,6 +21,9 @@
     - layers
         - Dense
         - LSTM
+        - Input
+        - Concatenate
+        - Flatten
     - optimizer
         - Adam
     - metrics
