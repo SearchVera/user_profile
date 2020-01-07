@@ -17,6 +17,7 @@
 - **Wide & Deep Learning for Recommender Systems**
 > 摘要：融合了LR模型和深度模型的优点
 >> wide: 通过交叉特征能够有效记忆，但是需要人工工程，无法泛化到没出现的特征
+
 >> deep: 通过embedding可以泛化到未出现过的特征，用于学习历史数据中不存在的特征组合
 
 - **FM, deep FM**
