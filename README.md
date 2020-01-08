@@ -10,6 +10,9 @@
 - **Recurrent neural network based language model**
 > 摘要：最早提出基于rnn的语言模型：通过预测下一个词来构造损失函数
 
+- **Transformer**
+> [详解](https://medium.com/%E7%A8%8B%E5%BC%8F%E5%B7%A5%E4%BD%9C%E7%B4%A1/autoencoder-%E4%B8%89-self-attention-transformer-c37f719d222)
+
 ### Recommend
 - **Deep Neural Network for YouTube Recommendation**
 > 摘要：2016年youtube推荐系统，提出将推荐过程分为matching和ranking2个阶段
@@ -20,7 +23,7 @@
 
 >> deep: 通过embedding可以泛化到未出现过的特征，用于学习历史数据中不存在的特征组合
 
-- **FM, deep FM**
+
 
 ## 工程
 ### tensorflow
