@@ -23,6 +23,21 @@
 
 >> deep: 通过embedding可以泛化到未出现过的特征，用于学习历史数据中不存在的特征组合
 
+## 知识架构
+### NLP
+- [word2vec](https://zhuanlan.zhihu.com/p/26306795)
+- [doc2vec]
+
+### Graph
+- **deepwalk**  [原理](https://zhuanlan.zhihu.com/p/56380812)
+
+- **node2vec**
+
+- SDNE
+
+- [阿里应用](https://www.jianshu.com/p/229b686535f1)
+
+### 无监督
 
 
 ## 工程
