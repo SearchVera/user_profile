@@ -34,6 +34,9 @@
 2. 不同的数值范围导致不同属性对模型的重要性不同，对优化造成困难，训练时间变长
 3. 机器学习常用方法（正则）都假设属性取值在以0为均值的附近
 
+**Batch Normalization**
+1. [综述](https://www.cnblogs.com/guoyaohua/p/8724433.html)
+
 **离散化**
 1. [连续特征离散化优势](https://www.zhihu.com/question/31989952)
 
