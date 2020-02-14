@@ -81,6 +81,10 @@
     - 摘要：同时优化CTR和CVR
     - [精读](https://blog.csdn.net/sinat_15443203/article/details/83713802）
 
+- **Real-time Personalization using Embeddings for Search Ranking at Airbnb**
+    - 摘要：对用户的浏览行为构建embedding，综合考虑了最终的预定结果和地区
+    - [精读](https://blog.csdn.net/like_red/article/details/88389918)
+
 ### NLP
 - **Semi-supervised Sequence Learning**
     - 摘要：使用自编码器和语言模型2种方法，使用无标记的数据来提升模型性能。训练完之后使用word embedding参数和LSTM权重来初始化监督模型的LSTM
