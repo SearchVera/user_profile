@@ -23,7 +23,7 @@
 - **Dropout**
 - **early stop**
 - **梯度消失** relu, batch norm, residual net, w initialize
-- **梯度更新算法：Momentom（指数加权平均）, RMSProp, Adam**
+- **梯度更新算法** Momentom（指数加权平均）, RMSProp, Adam
 - **decay learning rate**
 - **batch norm**
 - **残差网络**
@@ -75,11 +75,14 @@
 
 - **Wide & Deep Learning for Recommender Systems**
 > 摘要：融合了LR模型和深度模型的优点
+
 > wide: 通过交叉特征能够有效记忆，但是需要人工工程，无法泛化到没出现的特征
+
 > deep: 通过embedding可以泛化到未出现过的特征，用于学习历史数据中不存在的特征组合
 
 - **Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate**
 > 摘要：同时优化CTR和CVR
+
 > [精读](https://blog.csdn.net/sinat_15443203/article/details/83713802）
 
 ### NLP
