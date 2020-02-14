@@ -25,17 +25,21 @@
 
 ## 知识架构
 ### NLP
-- [word2vec](https://zhuanlan.zhihu.com/p/26306795)
-- [doc2vec]
+- **word2vec** [原理](https://zhuanlan.zhihu.com/p/26306795)
+- **doc2vec**
+- **ELMO
+- **GPT
+- **Bert** [综述](https://zhuanlan.zhihu.com/p/49271699)
+- **Transformer
 
 ### Graph
 - **deepwalk**  [原理](https://zhuanlan.zhihu.com/p/56380812)
 
 - **node2vec**
 
-- SDNE
+- **SDNE** [原理](https://zhuanlan.zhihu.com/p/56637181)
 
-- [阿里应用](https://www.jianshu.com/p/229b686535f1)
+
 
 ### 无监督
 
