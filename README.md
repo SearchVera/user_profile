@@ -1,4 +1,62 @@
-# user_profile
+
+## 知识架构
+### 基础模型
+- **Logistic Regression**
+- **决策树**
+- **SVM**
+- **集成：Boosting, Bagging**
+- **GBDT**
+- **xgboost**
+- **随机森林**
+
+### 数学基础
+- 特征值，特征向量
+- 奇异值分解, PCA
+- pearson系数
+- 协方差矩阵
+
+### 工程基础
+- 偏差（bias）,方差（var）
+- precision, recall, accuracy
+- ROC, AUC
+- 正则项
+- Dropout
+- early stop
+- 梯度消失：relu, batch norm, residual net, w initialize
+- 梯度更新算法：Momentom（指数加权平均）, RMSProp, Adam
+- decay learning rate
+- batch norm
+- 残差网络
+- 调参顺序：learning rate -> 正则系数 -> batch size -> hidden size 
+- 特征工程
+    - 缺失值：忽略，中心值填充
+    - 噪声：分箱光滑
+    - 异常值：去除
+    - 归一化，标准化，正则化：[sklearn.preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)
+    - 离散化
+    - 数据变换(log)
+    - 特征相关性分析
+
+### 深度模型
+- MLP
+- LSTM
+- GRU
+- 卷积，pooling
+
+
+### NLP
+- **word2vec** [原理](https://zhuanlan.zhihu.com/p/26306795)
+- **doc2vec**
+- **ELMO**
+- **GPT**
+- **Bert** [综述](https://zhuanlan.zhihu.com/p/49271699)
+- **Transformer**
+
+### Graph
+- **deepwalk**  [原理](https://zhuanlan.zhihu.com/p/56380812)
+- **node2vec**
+- **SDNE** [原理](https://zhuanlan.zhihu.com/p/56637181)
+
 
 ## 论文
 ### NLP
@@ -23,69 +81,10 @@
 
 >> deep: 通过embedding可以泛化到未出现过的特征，用于学习历史数据中不存在的特征组合
 
-## 知识架构
-### NLP
-- **word2vec** [原理](https://zhuanlan.zhihu.com/p/26306795)
-- **doc2vec**
-- **ELMO
-- **GPT
-- **Bert** [综述](https://zhuanlan.zhihu.com/p/49271699)
-- **Transformer
 
-### Graph
-- **deepwalk**  [原理](https://zhuanlan.zhihu.com/p/56380812)
-
-- **node2vec**
-
-- **SDNE** [原理](https://zhuanlan.zhihu.com/p/56637181)
 
 
 
 ### 无监督
 
-
-## 工程
-### tensorflow
-- keras
-    - Model
-    - layers
-        - Dense
-        - LSTM
-        - Input
-        - Concatenate
-        - Flatten
-    - optimizer
-        - Adam
-    - metrics
-        - Mean
-        - CategoricalAccuracy
-    - preprocessing
-        - sequence
-            - pad_sequences
-    
-        
-        
-- losses
-    - CategoricalCrossentropy
-
-- GradientTape
-
-- train
-    - Feature
-    - Features
-    - Example
-
-- data
-    - Dataset
-    - experimental.TFRecordWriter
-    - TFRecordDataset
-
-- io
-    - TFRecordWriter
-
-- op
-    - ones
-    - zeros
-    - concat
-    - cast
 
