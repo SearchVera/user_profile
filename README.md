@@ -22,19 +22,18 @@
 - **正则项**
 - **Dropout**
 - **early stop**
-- **梯度消失：relu, batch norm, residual net, w initialize**
+- **梯度消失** relu, batch norm, residual net, w initialize
 - **梯度更新算法：Momentom（指数加权平均）, RMSProp, Adam**
 - **decay learning rate**
 - **batch norm**
 - **残差网络**
-- **调参顺序：learning rate -> 正则系数 -> batch size -> hidden size **
+- **调参顺序** learning rate -> 正则系数 -> batch size -> hidden size 
 - **特征工程**
     - 缺失值：忽略，中心值填充
     - 噪声：分箱光滑
     - 异常值：去除
     - 归一化，标准化，正则化：[sklearn.preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)
-    - 离散化
-    - 数据变换(log)
+    - 离散化, 数据变换(log)
     - 特征相关性分析
 
 ### 深度模型
@@ -51,7 +50,7 @@
 - **ELMO**
 - **GPT**
 - **Bert** [综述](https://zhuanlan.zhihu.com/p/49271699)
-- **Transformer**
+- **Transformer** [详解](https://medium.com/%E7%A8%8B%E5%BC%8F%E5%B7%A5%E4%BD%9C%E7%B4%A1/autoencoder-%E4%B8%89-self-attention-transformer-c37f719d222)
 
 ### Graph
 - **deepwalk**  [原理](https://zhuanlan.zhihu.com/p/56380812)
@@ -91,14 +90,3 @@
 
 - **Recurrent neural network based language model**
 > 摘要：最早提出基于rnn的语言模型：通过预测下一个词来构造损失函数
-
-- **Transformer**
-> [详解](https://medium.com/%E7%A8%8B%E5%BC%8F%E5%B7%A5%E4%BD%9C%E7%B4%A1/autoencoder-%E4%B8%89-self-attention-transformer-c37f719d222)
-
-
-
-
-
-### 无监督
-
-
