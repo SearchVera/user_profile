@@ -14,7 +14,7 @@
 - **奇异值分解, PCA**
 - **pearson系数**
 - **协方差矩阵**
-= **alias method采样算法** [解决均匀分布生成其他分布的方法](https://blog.csdn.net/qq_33765907/article/details/79182355)
+- **alias method采样算法** [解决均匀分布生成其他分布的方法](https://blog.csdn.net/qq_33765907/article/details/79182355)
 
 ### 工程基础
 - **偏差（bias）,方差（var）**
