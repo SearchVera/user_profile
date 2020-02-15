@@ -21,6 +21,8 @@
 - **precision, recall, accuracy**
 - **ROC, AUC**
 - **正则项**
+- **损失函数** [mse](https://www.jiqizhixin.com/articles/091202) [交叉熵](https://zhuanlan.zhihu.com/p/35709485)
+- **激活函数** [softmax, sigmoid, relu, tanh](https://blog.csdn.net/weixin_42057852/article/details/84644348)
 - **Dropout**
 - **early stop**
 - **梯度消失** relu, batch norm, residual net, w initialize
