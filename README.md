@@ -38,7 +38,7 @@
 
 ### 深度模型
 - **MLP**
-- **LSTM**
+- **LSTM** [详解](https://www.jianshu.com/p/95d5c461924c)
 - **GRU**
 - **卷积，pooling**
 
