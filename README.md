@@ -20,7 +20,7 @@
 - **偏差（bias）,方差（var）**
 - **precision, recall, accuracy**
 - **ROC, AUC**
-- **正则项**
+- **正则项** [L1,L2不同的原因](https://www.zhihu.com/question/26485586/answer/616029832)
 - **损失函数** [mse](https://www.jiqizhixin.com/articles/091202) [交叉熵](https://zhuanlan.zhihu.com/p/35709485)
 - **激活函数** [softmax, sigmoid, relu, tanh](https://blog.csdn.net/weixin_42057852/article/details/84644348)
 - **Dropout**
