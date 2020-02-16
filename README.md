@@ -31,6 +31,7 @@
 - **batch norm**
 - **残差网络**
 - **调参顺序** learning rate -> 正则系数 -> batch size -> hidden size 
+- **特征稀疏问题** [淘宝](https://blog.csdn.net/s1162276945/article/details/81951873)
 - **特征工程**
     - 缺失值：忽略，中心值填充
     - 噪声：分箱光滑
