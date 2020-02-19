@@ -21,7 +21,7 @@
 - **precision, recall, accuracy**
 - **ROC, AUC**
 - **正则项** [L1,L2不同的原因](https://www.zhihu.com/question/26485586/answer/616029832)
-- **损失函数** [mse](https://www.jiqizhixin.com/articles/091202) [交叉熵](https://zhuanlan.zhihu.com/p/35709485)
+- **损失函数** [mse](https://www.jiqizhixin.com/articles/091202) [交叉熵与KL散度](https://blog.csdn.net/b1055077005/article/details/100152102)
 - **激活函数** [softmax, sigmoid, relu, tanh](https://blog.csdn.net/weixin_42057852/article/details/84644348)
 - **Dropout**
 - **early stop**
