@@ -12,7 +12,7 @@
 ### 数学基础
 - **特征值，特征向量**
 - **奇异值分解, PCA**
-- **pearson系数**
+- **pearson系数,欧式距离，consine距离** [区别](https://www.zhihu.com/question/19734616)
 - **协方差矩阵**
 - **alias method采样算法** [解决均匀分布生成其他分布的方法](https://blog.csdn.net/qq_33765907/article/details/79182355)
 
