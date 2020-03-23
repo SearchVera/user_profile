@@ -2,7 +2,7 @@
 ## 学习计划
 - kaggle: pandas, sklearn, numpy, 画图
 - 用户增长
-- 论文阅读
+- 论文阅读: word2vec系列，GNN系列
 - 小程序
 
 ## 知识架构
